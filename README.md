@@ -36,29 +36,29 @@ YOUR_ITCH_LINK_HERE
 
 1. Clone the repository:
 
-'''
-git clone (https://github.com/0xDev-Mn/cybersecurity-toolkit-free)
+```
+  git clone (https://github.com/0xDev-Mn/cybersecurity-toolkit-free)
 cd CyberToolkit_Free
-'''
+```
 
 2. (Optional) Create virtual environment:
 
-'''
+```
 python3 -m venv venv
 source venv/bin/activate
-'''
+```
 
 3. Install dependencies:
 
-'''
+```
 pip install -r requirements.txt
-'''
+```
 
 4. Run the tool:
 
-'''
+```
 python3 main.py
-'''
+```
 
 ---
 

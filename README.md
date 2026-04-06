@@ -28,7 +28,7 @@ Unlock the complete toolkit:
 ✔ Beginner-friendly PDF guide  
 
 👉 Get the full version here:  
-YOUR_ITCH_LINK_HERE
+https://dev-mn.itch.io/cybersecurity-toolkit-beginner-friendly-port-scanner-vulnerability-scanner
 
 ---
 

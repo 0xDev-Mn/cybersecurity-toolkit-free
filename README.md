@@ -37,7 +37,7 @@ YOUR_ITCH_LINK_HERE
 1. Clone the repository:
 
 ```
-  git clone (https://github.com/0xDev-Mn/cybersecurity-toolkit-free)
+git clone (https://github.com/0xDev-Mn/cybersecurity-toolkit-free)
 cd CyberToolkit_Free
 ```
 
